@@ -1,1 +1,2 @@
 # Pizza-Sales
+This Pizza Sales Data Analytics Project aims to analyze and derive valuable insights from a dataset related to pizza sales. The project utilizes various data analytics techniques to uncover trends, patterns, and key performance indicators (KPIs) that can aid in making informed business decisions. The dataset includes information about pizza sales, customer demographics, and other relevant variables.
